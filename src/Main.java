@@ -13,7 +13,7 @@ public class Main {
             date[count-1]=input;
             count--;
         }
-
+        String [] lastArray=checkArray(date);
     }
     public static String [] checkArray(String [] array){
         int count=0;
